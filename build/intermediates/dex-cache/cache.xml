@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Christian\Desktop\Practical\orb\app\build\intermediates\exploded-aar\orb\opencv\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8eb48a103d397ede187c46e79d42d09d5c3792eb">
+        <dex dex="C:\Users\Christian\Desktop\Practical\orb\app\build\intermediates\pre-dexed\arm7\debug\classes-e192eefc96424c68c139408f2d8ee7d5953d62ad.jar" />
+    </item>
+
+</items>
